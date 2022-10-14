@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elitewarri0r
-- 🌱 I’m currently learning Cyber Security @ SRM Easwari
-- 📫 How to reach me sriram.themaker@gmail.com
+- 🌱 I’m currently learning Cyber Security 
 
 <!---
 elitewarri0r/elitewarri0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
